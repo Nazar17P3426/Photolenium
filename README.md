@@ -1,2 +1,2 @@
 # Photolenium
-my new malware, inspired monoxide
+C short GDI trojan by red-wipet
